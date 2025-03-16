@@ -1,4 +1,4 @@
-# Sales-Management-Data-Analytics
+
 # Sales Insights Dashboard 📊
 
 ## Overview
@@ -20,10 +20,6 @@ A **Power BI dashboard** designed to provide **actionable insights** from sales 
 ✔ Identified **top-performing products** & **sales trends**.  
 ✔ Analyzed **regional sales distribution** for strategic decision-making.  
 ✔ Tracked **customer purchasing behavior** to enhance marketing efforts.  
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-trivedi-42b084271/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvtrivedi5024@gmail.com)
 
 ---
 
